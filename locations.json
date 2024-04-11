@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Daily Box 1",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 171,
+      "y": 69,
+      "z": -1551
+    }
+  },
+  {
+    "name": "Daily Box 2",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -268,
+      "y": 67,
+      "z": -1375
+    }
+  },
+  {
+    "name": "Daily Box 3",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -660,
+      "y": 106,
+      "z": -1236
+    }
+  },
+  {
+    "name": "Daily Box 4",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 42,
+      "y": 32,
+      "z": -2230
+    }
+  },
+  {
+    "name": "Daily Box 5",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -529,
+      "y": 76,
+      "z": -1711
+    }
+  },
+  {
+    "name": "Daily Box 6",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1403,
+      "y": 42,
+      "z": -1549
+    }
+  },
+  {
+    "name": "Daily Box 7",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -204,
+      "y": 74,
+      "z": -643
+    }
+  },
+  {
+    "name": "Daily Box 8",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -907,
+      "y": 55,
+      "z": -3271
+    }
+  },
+  {
+    "name": "Daily Box 9",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1256,
+      "y": 43,
+      "z": -4458
+    }
+  },
+  {
+    "name": "Daily Box 10",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1914,
+      "y": 78,
+      "z": -1756
+    }
+  },
+  {
+    "name": "Daily Box 11",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -542,
+      "y": 71,
+      "z": -1455
+    }
+  },
+  {
+    "name": "Daily Box 12",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1334,
+      "y": 54,
+      "z": -5111
+    }
+  },
+  {
+    "name": "Daily Box 13",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -2102,
+      "y": 59,
+      "z": -4846
+    }
+  },
+  {
+    "name": "Daily Box 14",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -818,
+      "y": 76,
+      "z": -957
+    }
+  },
+  {
+    "name": "Daily Box 15",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 143,
+      "y": 52,
+      "z": -5393
+    }
+  },
+  {
+    "name": "Daily Box 16",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -454,
+      "y": 88,
+      "z": -5567
+    }
+  },
+  {
+    "name": "Daily Box 17",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -620,
+      "y": 6,
+      "z": -5571
+    }
+  },
+  {
+    "name": "Daily Box 18",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1234,
+      "y": 35,
+      "z": -3083
+    }
+  },
+  {
+    "name": "Daily Box 19",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1559,
+      "y": 86,
+      "z": -5500
+    }
+  },
+  {
+    "name": "Daily Box 20",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1483,
+      "y": 133,
+      "z": -5446
+    }
+  },
+  {
+    "name": "Daily Box 21",
+    "color": "#00ff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 772,
+      "y": 129,
+      "z": -4930
+    }
+  },
+  {
+    "name": "Weekly Box 1",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1211,
+      "y": 175,
+      "z": -2256
+    }
+  },
+  {
+    "name": "Weekly Box 2",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -264,
+      "y": 37,
+      "z": -967
+    }
+  },
+  {
+    "name": "Weekly Box 3",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1005,
+      "y": 72,
+      "z": -1937
+    }
+  },
+  {
+    "name": "Weekly Box 4",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -910,
+      "y": 33,
+      "z": -2166
+    }
+  },
+  {
+    "name": "Weekly Box 5",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -534,
+      "y": 56,
+      "z": -437
+    }
+  },
+  {
+    "name": "Weekly Box 6",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1186,
+      "y": 88,
+      "z": -4486
+    }
+  },
+  {
+    "name": "Weekly Box 7",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1694,
+      "y": 163,
+      "z": -3355
+    }
+  },
+  {
+    "name": "Weekly Box 8",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 1535,
+      "y": 114,
+      "z": -5386
+    }
+  },
+  {
+    "name": "Weekly Box 9",
+    "color": "#ffff00",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -63,
+      "y": 95,
+      "z": -4313
+    }
+  },
+  {
+    "name": "Bonus Box 1",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -425,
+      "y": 29,
+      "z": -1983
+    }
+  },
+  {
+    "name": "Bonus Box 2",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 879,
+      "y": 120,
+      "z": -1225
+    }
+  },
+  {
+    "name": "Bonus Box 3",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 213,
+      "y": 69,
+      "z": -1857
+    }
+  },
+  {
+    "name": "Bonus Box 4",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 845,
+      "y": 67,
+      "z": -4208
+    }
+  },
+  {
+    "name": "Bonus Box 5",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 920,
+      "y": 203,
+      "z": -5031
+    }
+  },
+  {
+    "name": "Bonus Box 6",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 764,
+      "y": 16,
+      "z": -4748
+    }
+  },
+  {
+    "name": "Bonus Box 7",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -772,
+      "y": 91,
+      "z": -1008
+    }
+  },
+  {
+    "name": "Bonus Box 8",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -1755,
+      "y": 37,
+      "z": -2365
+    }
+  },
+  {
+    "name": "Bonus Box 9",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": 710,
+      "y": 25,
+      "z": -5569
+    }
+  },
+  {
+    "name": "Bonus Box 10",
+    "color": "#ffa500",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -839,
+      "y": 8,
+      "z": -2526
+    }
+  }
+]
